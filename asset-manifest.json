@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sysale/static/css/main.1cc180af.chunk.css",
+    "main.js": "/sysale/static/js/main.9e9ea022.chunk.js",
+    "main.js.map": "/sysale/static/js/main.9e9ea022.chunk.js.map",
+    "runtime-main.js": "/sysale/static/js/runtime-main.b3c30109.js",
+    "runtime-main.js.map": "/sysale/static/js/runtime-main.b3c30109.js.map",
+    "static/js/2.5c0b2159.chunk.js": "/sysale/static/js/2.5c0b2159.chunk.js",
+    "static/js/2.5c0b2159.chunk.js.map": "/sysale/static/js/2.5c0b2159.chunk.js.map",
+    "static/js/3.d24ce374.chunk.js": "/sysale/static/js/3.d24ce374.chunk.js",
+    "static/js/3.d24ce374.chunk.js.map": "/sysale/static/js/3.d24ce374.chunk.js.map",
+    "index.html": "/sysale/index.html",
+    "static/css/main.1cc180af.chunk.css.map": "/sysale/static/css/main.1cc180af.chunk.css.map",
+    "static/js/2.5c0b2159.chunk.js.LICENSE.txt": "/sysale/static/js/2.5c0b2159.chunk.js.LICENSE.txt",
+    "static/media/Banner.module.css": "/sysale/static/media/image23.80e428b6.png",
+    "static/media/index.css": "/sysale/static/media/sf-ui-display-medium-58646be638f96.32f93875.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3c30109.js",
+    "static/js/2.5c0b2159.chunk.js",
+    "static/css/main.1cc180af.chunk.css",
+    "static/js/main.9e9ea022.chunk.js"
+  ]
+}
