@@ -1,0 +1,26 @@
+.select{
+    width: 258px;
+    height: 30px;
+    background: white;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.arrow{
+    width: 11px;
+    height: 7px;
+    background-image: url(../Banner/img/Vector1.png);
+    background-size: cover;
+}
+.someselect{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 45px;
+}
+.someselect > p{
+    font-size: 18px;
+    font-weight: 600;
+}

@@ -1,0 +1,37 @@
+.add{
+    width: 92px;
+    height: 39px;
+    background: #E2E9F0;
+    border-radius: 30px;
+    margin-right: 31px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.someinput{
+    width: 302px;
+    height: 39px;
+    background: linear-gradient(261.65deg, #EFBB37 -3.95%, #CF9E1F 109.44%);
+    border-radius: 30px;
+    border: none;
+}
+.tobay{
+    display: flex;
+    margin: 25px 0 0px 62px;
+    padding-bottom: 37px;
+}
+.someinput{
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    text-transform: uppercase;
+    font-family: SF UI Display;
+    transition: 0.5;
+}
+.someinput:hover{
+    background: grey;
+    color: yellowgreen;
+}
+span{
+    font-size: 20px;
+}

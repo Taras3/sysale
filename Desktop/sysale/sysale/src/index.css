@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: SF UI Display;
+  src: url(components/font/sf-ui-display-medium-58646be638f96.otf);
+}
+body{
+  font-family: SF UI Display;
+  background: #E5E5E5;
+}
+#item:hover #image{
+  background-size: 150%;
+  background-position: right;
+}
+.fatherdiv{
+  display: flex;
+}
+
